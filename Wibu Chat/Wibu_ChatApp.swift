@@ -11,7 +11,7 @@ import SwiftUI
 struct Wibu_ChatApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainMessages()
         }
     }
 }
